@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightPuzzleTut", "EightPuzzleTut\EightPuzzleTut.csproj", "{EA715B42-CE89-42FD-ABAD-3DEDBA044A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA715B42-CE89-42FD-ABAD-3DEDBA044A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA715B42-CE89-42FD-ABAD-3DEDBA044A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA715B42-CE89-42FD-ABAD-3DEDBA044A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA715B42-CE89-42FD-ABAD-3DEDBA044A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18DC4BEE-6843-413E-B93B-D86D20BC9ED9}
+	EndGlobalSection
+EndGlobal
